@@ -20,14 +20,3 @@ py -X utf8 spec/docs/gyversettings/scripts/refresh_gyversettings.py
 py -X utf8 spec/docs/gyversettings/scripts/index_libdeps_examples.py
 ```
 Все файлы в UTF-8.
-
-## Как запаковать скилл
-```powershell
-$creator = "path/to/package_skill.py"   # из дистрибутива skill-creator
-python $creator skills/gyversettings-skill skills/dist
-```
-Результат — `skills/dist/gyversettings-skill.skill`.
-
-## Куда смотреть дальше
-- Для навигации по ресурсам скилла — `skills/gyversettings-skill/SKILL.md` и `skills/gyversettings-skill/README.md`.
-- Для подробной спецификации и сценариев использования — `spec/docs/gyversettings-skill.md`.
