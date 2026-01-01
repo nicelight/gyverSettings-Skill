@@ -1,0 +1,1 @@
+﻿C65CCCE607268A519EC64E62F5F38E865EB2837C489325918FE0264FD0F348B7 *C:\Users\Acer\Documents\PlatformIO\Projects\gyverSettings-Skill\skills\dist\gyversettings-skill.skill

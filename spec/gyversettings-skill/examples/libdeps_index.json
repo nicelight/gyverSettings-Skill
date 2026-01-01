@@ -1,0 +1,525 @@
+[
+  {
+    "lib": "BSON",
+    "version": "2.2.5",
+    "env": "esp32dev",
+    "example": "parser",
+    "path": ".pio/libdeps/esp32dev/BSON/examples/parser",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "BSON",
+    "version": "2.2.5",
+    "env": "esp32dev",
+    "example": "test",
+    "path": ".pio/libdeps/esp32dev/BSON/examples/test",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "GTL",
+    "version": "1.3.11",
+    "env": "esp32dev",
+    "example": "list",
+    "path": ".pio/libdeps/esp32dev/GTL/examples/list",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "GTL",
+    "version": "1.3.11",
+    "env": "esp32dev",
+    "example": "stack_file",
+    "path": ".pio/libdeps/esp32dev/GTL/examples/stack_file",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs"
+    ]
+  },
+  {
+    "lib": "GyverDB",
+    "version": "1.4.0",
+    "env": "esp32dev",
+    "example": "file",
+    "path": ".pio/libdeps/esp32dev/GyverDB/examples/file",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs"
+    ]
+  },
+  {
+    "lib": "GyverDB",
+    "version": "1.4.0",
+    "env": "esp32dev",
+    "example": "test",
+    "path": ".pio/libdeps/esp32dev/GyverDB/examples/test",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "GyverHTTP",
+    "version": "1.0.30",
+    "env": "esp32dev",
+    "example": "captive_portal",
+    "path": ".pio/libdeps/esp32dev/GyverHTTP/examples/captive_portal",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "GyverHTTP",
+    "version": "1.0.30",
+    "env": "esp32dev",
+    "example": "client_get_async",
+    "path": ".pio/libdeps/esp32dev/GyverHTTP/examples/client_get_async",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "GyverHTTP",
+    "version": "1.0.30",
+    "env": "esp32dev",
+    "example": "client_get_async2",
+    "path": ".pio/libdeps/esp32dev/GyverHTTP/examples/client_get_async2",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "GyverHTTP",
+    "version": "1.0.30",
+    "env": "esp32dev",
+    "example": "client_get_sync",
+    "path": ".pio/libdeps/esp32dev/GyverHTTP/examples/client_get_sync",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "GyverHTTP",
+    "version": "1.0.30",
+    "env": "esp32dev",
+    "example": "server",
+    "path": ".pio/libdeps/esp32dev/GyverHTTP/examples/server",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "arduino_pio",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/arduino_pio",
+    "priority": "settings",
+    "has_platformio_ini": true,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "custom",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/custom",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "demo_data",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/demo_data",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "minimal",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/minimal",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "minimal_db",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/minimal_db",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "plot_file",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/plot_file",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "graphs",
+      "settings",
+      "ws"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "plot_run",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/plot_run",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "plot_run_ws",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/plot_run_ws",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "settings",
+      "ws"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "plot_sin",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/plot_sin",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "settings",
+      "ws"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "plot_table",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/plot_table",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "graphs",
+      "settings",
+      "ws"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "sd_card",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/sd_card",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "stream",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/stream",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "camera",
+      "fs",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "test",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/test",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "logger",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "wificonnect",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/wificonnect",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "esp-webserver",
+      "fs",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "wificonnector",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/wificonnector",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "esp-webserver",
+      "fs",
+      "settings"
+    ]
+  },
+  {
+    "lib": "Settings",
+    "version": "1.3.13",
+    "env": "esp32dev",
+    "example": "ws_update",
+    "path": ".pio/libdeps/esp32dev/Settings/examples/ws_update",
+    "priority": "settings",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "settings",
+      "ws"
+    ]
+  },
+  {
+    "lib": "Stamp",
+    "version": "1.4.4",
+    "env": "esp32dev",
+    "example": "dayIndex",
+    "path": ".pio/libdeps/esp32dev/Stamp/examples/dayIndex",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "Stamp",
+    "version": "1.4.4",
+    "env": "esp32dev",
+    "example": "demo",
+    "path": ".pio/libdeps/esp32dev/Stamp/examples/demo",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "Stamp",
+    "version": "1.4.4",
+    "env": "esp32dev",
+    "example": "keeper",
+    "path": ".pio/libdeps/esp32dev/Stamp/examples/keeper",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "settings"
+    ]
+  },
+  {
+    "lib": "Stamp",
+    "version": "1.4.4",
+    "env": "esp32dev",
+    "example": "test",
+    "path": ".pio/libdeps/esp32dev/Stamp/examples/test",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "StringUtils",
+    "version": "1.5.3",
+    "env": "esp32dev",
+    "example": "parse",
+    "path": ".pio/libdeps/esp32dev/StringUtils/examples/parse",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "StringUtils",
+    "version": "1.5.3",
+    "env": "esp32dev",
+    "example": "test",
+    "path": ".pio/libdeps/esp32dev/StringUtils/examples/test",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "StringUtils",
+    "version": "1.5.3",
+    "env": "esp32dev",
+    "example": "unitTest",
+    "path": ".pio/libdeps/esp32dev/StringUtils/examples/unitTest",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  },
+  {
+    "lib": "Table",
+    "version": "1.3.5",
+    "env": "esp32dev",
+    "example": "demo",
+    "path": ".pio/libdeps/esp32dev/Table/examples/demo",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "graphs"
+    ]
+  },
+  {
+    "lib": "Table",
+    "version": "1.3.5",
+    "env": "esp32dev",
+    "example": "file",
+    "path": ".pio/libdeps/esp32dev/Table/examples/file",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "graphs"
+    ]
+  },
+  {
+    "lib": "Table",
+    "version": "1.3.5",
+    "env": "esp32dev",
+    "example": "fileStatic",
+    "path": ".pio/libdeps/esp32dev/Table/examples/fileStatic",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": [
+      "fs",
+      "graphs"
+    ]
+  },
+  {
+    "lib": "WiFiConnector",
+    "version": "1.0.4",
+    "env": "esp32dev",
+    "example": "demo",
+    "path": ".pio/libdeps/esp32dev/WiFiConnector/examples/demo",
+    "priority": "deps",
+    "has_platformio_ini": false,
+    "has_src": true,
+    "has_data": false,
+    "tags": []
+  }
+]
